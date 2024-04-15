@@ -1,0 +1,9 @@
+Solicitar um valor de 0 a 10 do usuário para ser multiplicado por 9, quando o valor for inserido, uma variável irá armazená-lo. 
+
+ 
+
+Quando a variável receber o valor, outra variável irá receber o valor digitado subtraído por 1, e outra receberá o valor subtraindo 10. 
+
+ 
+
+Quando ambas receberem seu valor, será feita uma junção de ambas como um valor único. 
