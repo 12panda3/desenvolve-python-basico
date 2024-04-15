@@ -1,0 +1,15 @@
+
+
+INPUT valor à ser multiplicado por 9 (0 a 10)
+
+n RECEBE resposta
+
+d1 É string
+d1 RECEBE (n - 1)
+
+d2 É string
+d2 RECEBE (10 - n)
+
+v RECEBE (d1 + d2)
+
+MOSTRE (v)
